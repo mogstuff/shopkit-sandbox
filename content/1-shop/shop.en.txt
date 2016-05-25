@@ -1,4 +1,4 @@
-Title: Shop
+Title: Lapdog Tray
 
 ----
 
@@ -18,11 +18,11 @@ Paylater: admin
 
 ----
 
-Currency-code: USD
+Currency-code: GBP
 
 ----
 
-Currency-symbol: $
+Currency-symbol: £
 
 ----
 
@@ -30,11 +30,11 @@ Currency-position: before
 
 ----
 
-Paypal-email: 
+Paypal-email: sales@lapdogtray.co.uk
 
 ----
 
-Paypal-action: sandbox
+Paypal-action: live
 
 ----
 
