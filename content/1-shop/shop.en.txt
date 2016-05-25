@@ -1,0 +1,53 @@
+Title: Shop
+
+----
+
+Text: 
+
+----
+
+Shipping: 
+
+----
+
+Tax: 
+
+----
+
+Paylater: admin
+
+----
+
+Currency-code: USD
+
+----
+
+Currency-symbol: $
+
+----
+
+Currency-position: before
+
+----
+
+Paypal-email: 
+
+----
+
+Paypal-action: sandbox
+
+----
+
+Featured: 
+
+----
+
+Slider: 
+
+----
+
+Discount-codes: 
+
+----
+
+Notifications: 
